@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" ?> 
 <sdk_metadata>
   <library  groupId="com.urbanairship.android" artifactId="urbanairship-sdk" recommended-version="9.3.1" >
     <versions from="9.1.0" status="deprecated" version-literal="!SDK-VERSION-STRING!:com.urbanairship.android:urbanairship-sdk:9.1.0" />
